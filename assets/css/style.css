@@ -235,7 +235,7 @@ a {
       margin-bottom:18vw;
         }
   }
-  .small{
+  .small-media{
     @media (max-width: 575.98px) {
       display: none;
         }
@@ -248,11 +248,13 @@ a {
       li {
         transition: all 0.4s;
         font-weight: 700;
+        width: 120px;
+        padding: 10px 10px;
+        border-radius: 5px;
+        text-align: center;
         &:hover {
           color: #fff;
           background-color: var(--red);
-          border-radius: 5px;
-          padding: 10px 20px;
         }
       }
   }
@@ -523,15 +525,3 @@ footer {
 }
 
 
-/* 
-
-{ewru90u4390ui43} */
-/* 
-
-{ewru90u4390ui43} */
-/* 
-
-{ewru90u4390ui43} */
-/* 
-
-{ewru90u4390ui43} */
