@@ -43,6 +43,7 @@ a {
   @media (max-width: 575.98px) {
     margin-left: 10px;
     margin-right: 10px;
+    max-width: 94%;
   }
   ul {
     li {
